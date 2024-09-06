@@ -1,4 +1,4 @@
-## **README.md - Buscador de Obras Espíritas**
+## **Buscador de Obras Espíritas - Imersão Dev com Google Gemini**
 
 ### **O que é essa aplicação?**
 
